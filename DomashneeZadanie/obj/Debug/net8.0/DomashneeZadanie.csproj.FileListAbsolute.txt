@@ -1,0 +1,14 @@
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.AssemblyInfoInputs.cache
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.AssemblyInfo.cs
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.csproj.CoreCompileInputs.cache
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\bin\Debug\net8.0\DomashneeZadanie.exe
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\bin\Debug\net8.0\DomashneeZadanie.deps.json
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\bin\Debug\net8.0\DomashneeZadanie.runtimeconfig.json
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\bin\Debug\net8.0\DomashneeZadanie.dll
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\bin\Debug\net8.0\DomashneeZadanie.pdb
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.dll
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\refint\DomashneeZadanie.dll
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.pdb
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.genruntimeconfig.cache
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\ref\DomashneeZadanie.dll
