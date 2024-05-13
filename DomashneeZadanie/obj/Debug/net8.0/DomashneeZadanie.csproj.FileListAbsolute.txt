@@ -12,3 +12,4 @@ D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\refint\Dom
 D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.pdb
 D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.genruntimeconfig.cache
 D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\ref\DomashneeZadanie.dll
+D:\progUtil\webAPI\DomashneeZadanie\DomashneeZadanie\obj\Debug\net8.0\DomashneeZadanie.sourcelink.json

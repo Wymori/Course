@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progUtil\\webAPI\\DomashneeZadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task3\\logisticplanner\\drawfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task3\\logisticplanner\\drawfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task3\\logisticplanner\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task3\\logisticplanner\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task3\\logisticplanner\\nodecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task3\\logisticplanner\\nodecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task3\\logisticplanner\\userio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task3\\logisticplanner\\userio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_2\\sea_war\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_2\\sea_war\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task3\\thirdtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task3\\thirdtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\coursestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\coursestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_2\\sea_war\\release.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_2\\sea_war\\release.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\leetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\leetcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_2\\secondtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_2\\secondtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\firsttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\firsttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\domashneezadanie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\domashneezadanie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\kalash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\kalash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|d:\\progutil\\webapi\\domashneezadanie\\domashneezadanie\\course\\task_1\\guns\\melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F54E9B-1E20-4B98-970A-9F9973FB7445}|DomashneeZadanie\\DomashneeZadanie.csproj|solutionrelative:domashneezadanie\\course\\task_1\\guns\\melee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawField.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\DrawField.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\DrawField.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\DrawField.cs*",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\DrawField.cs*",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:30:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\Node.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\Node.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\Node.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:42:45.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserIO.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\UserIO.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\UserIO.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\UserIO.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\UserIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:03:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodeCreate.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\NodeCreate.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\NodeCreate.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\NodeCreate.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task3\\LogisticPlanner\\NodeCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:18:41.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThirdTask.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\ThirdTask.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task3\\ThirdTask.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task3\\ThirdTask.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task3\\ThirdTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:26:08.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DomashneeZadanie.csproj",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\DomashneeZadanie.csproj",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\DomashneeZadanie.csproj",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\DomashneeZadanie.csproj",
+              "RelativeToolTip": "DomashneeZadanie\\DomashneeZadanie.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T14:48:13.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\Sea_war\\Field.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_2\\Sea_war\\Field.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\Sea_war\\Field.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_2\\Sea_war\\Field.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:22:14.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Release.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\Sea_war\\Release.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_2\\Sea_war\\Release.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\Sea_war\\Release.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_2\\Sea_war\\Release.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:36:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SecondTask.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\SecondTask.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_2\\SecondTask.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_2\\SecondTask.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_2\\SecondTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T07:21:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Gun.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\Gun.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Gun.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\Gun.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:44:43.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FirstTask.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\FirstTask.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\FirstTask.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\FirstTask.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\FirstTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:19:45.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoursesTask.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\CoursesTask.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\CoursesTask.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\CoursesTask.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\CoursesTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:17:04.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Melee.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Melee.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\Melee.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Melee.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\Melee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:13:02.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Range.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Range.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\Range.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Range.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\Range.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:12:41.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Person.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\Person.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Person.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:51:18.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Knife.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\Knife.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\Knife.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\Knife.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:51:03.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "kalash.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\kalash.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Course\\Task_1\\Guns\\kalash.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Course\\Task_1\\Guns\\kalash.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Course\\Task_1\\Guns\\kalash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:46:17.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeetCode.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\LeetCode.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\LeetCode.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\LeetCode.cs",
+              "RelativeToolTip": "DomashneeZadanie\\LeetCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:49:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Program.cs",
+              "RelativeDocumentMoniker": "DomashneeZadanie\\Program.cs",
+              "ToolTip": "D:\\progUtil\\webAPI\\DomashneeZadanie\\DomashneeZadanie\\Program.cs",
+              "RelativeToolTip": "DomashneeZadanie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:34:43.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
